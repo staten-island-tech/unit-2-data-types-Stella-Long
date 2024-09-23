@@ -32,11 +32,12 @@
 #     print('perfect')
 # else:
 #     print('cold')
+""" Challenge #1 """
 x = 16
 y = 7
-if x is 2 ==0:
-    (print: both are even)
-if x is 2 ==0:
-    (print: atleast one is even )
-if x is 2 ==0:
-    (print: neither are even)
+if x is 2 ==0 and y is 2==0:
+    print ('both are even')
+elif x is 2 ==0 and y is 2==0:
+    print ('atleast one is even')
+else x is 2 ==0 and y is 2==0: 
+    print ('neither are even') 
