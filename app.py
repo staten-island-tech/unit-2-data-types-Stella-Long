@@ -23,6 +23,7 @@
 #     print("correct")
 # else:
 #     print("incorrect")
+""" F String """
 # x = "test"
 # print(f"hello {x}")
 # temp = 75
@@ -33,11 +34,13 @@
 # else:
 #     print('cold')
 """ Challenge #1 """
-x = 16
-y = 7
-if x is 2 ==0 and y is 2==0:
-    print ('both are even')
-elif x is 2 ==0 and y is 2==0:
-    print ('atleast one is even')
-else x is 2 ==0 and y is 2==0: 
-    print ('neither are even') 
+# x = 3
+# y = 4
+# if x % 2 ==0 and y % 2 ==0:
+#     print ("both are even")
+# elif x % 2 ==0 and y % 2 ==0:
+#     print ("atleast one is even")
+# else : 
+#     print ("neither are even")
+""" Challenge #2 """
+x = input()
