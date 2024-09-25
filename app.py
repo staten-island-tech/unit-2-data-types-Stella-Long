@@ -34,6 +34,10 @@
 # else:
 #     print('cold')
 """ Challenge #1 """
+
+""" Challenge #2 """
+
+""" Challenge #3 """
 # x = 3
 # y = 4
 # if x % 2 ==0 and y % 2 ==0:
@@ -42,5 +46,14 @@
 #     print ("atleast one is even")
 # else : 
 #     print ("neither are even")
-""" Challenge #2 """
-x = input()
+""" Challenge #4 """
+# """ x = input("service:")
+# if x == "bad":
+#     print("0%")
+# if x == "okay":
+#     print("15%")
+# if x == "good":
+#     print("20%")
+# if x == "great":
+#     print("25%") """
+""" Challenge #5 """
