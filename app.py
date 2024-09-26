@@ -57,3 +57,10 @@
 # if x == "great":
 #     print("25%") """
 """ Challenge #5 """
+
+""" Challenge #6 """
+a = 42
+b = 54
+for i in a range(2,a+1)
+if a % i  ==0 and b % i ==0:
+    print ("")
