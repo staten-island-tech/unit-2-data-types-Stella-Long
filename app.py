@@ -34,9 +34,12 @@
 # else:
 #     print('cold')
 """ Challenge #1 """
-
+# sentence = "This be a sentence"
+# x = sentence.split (" ")
+# print (x)
+# print (len(x))
 """ Challenge #2 """
-
+food = [""]
 """ Challenge #3 """
 # x = 3
 # y = 4
@@ -57,10 +60,13 @@
 # if x == "great":
 #     print("25%") """
 """ Challenge #5 """
-
+# a = 45
+# for i in range (2,a+1):
+#     if a % i  ==0: 
+#         print(i)
 """ Challenge #6 """
-a = 42
-b = 54
-for i in a range(2,a+1)
-if a % i  ==0 and b % i ==0:
-    print ("")
+# a = 42
+# b = 54
+# for i in range (2,a+1):
+#     if a % i  ==0 and b % i ==0: 
+#         print(i)
