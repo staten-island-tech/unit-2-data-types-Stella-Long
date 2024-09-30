@@ -39,7 +39,9 @@
 # print (x)
 # print (len(x))
 """ Challenge #2 """
-food = [""]
+name = input(" :")
+adj1
+"Once upon time," (noun) "and" (name) "were planning a" (adjecive1) "picnic." "But" (noun) (verb1) "off with the food at" (number) "miles per hours." "And when" (name) "realized" (noun) "already" (verb2) "across the ocean. But what" (noun) "didn't know was that" (name) "could also" (verb3) "but" (adjective2) "Unfortunately for" (name) "," (noun) "had already finished the food."
 """ Challenge #3 """
 # x = 3
 # y = 4
@@ -70,3 +72,14 @@ food = [""]
 # for i in range (2,a+1):
 #     if a % i  ==0 and b % i ==0: 
 #         print(i)
+
+# x= 0
+# while x < 8:
+#     print(x)
+#     x = x +1
+# hp = 100
+# while hp > 0:
+#     print("game thing")
+# score = 11
+# while score < 11:
+#     print("game thing")
