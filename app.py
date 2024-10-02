@@ -39,19 +39,19 @@
 # print (x)
 # print (len(x))
 """ Challenge #2 """
-print("")
-print("")
-name = input("name: ")
-noun = input("noun: ")
-adj1 = input("Adjective 1: ")
-adj2 = input("Adjective 2: ")
-number = input("Number: ")
-verb1 = input("Verb 1: ")
-verb2 = input("Verb 2: ")
-verb3 = input("Verb 3: ")
-print("")
-print("One day,", noun ,"and", name ,"were planning a", adj1 ,"picnic.", ,"But", noun verb1 ,"off with the food at", “number” ,"miles per hour.", ,"And when", “name” ,"realized", “noun” ,"already", “verb2” ,"across the ocean. But what", “noun” ,"did not know was that", “name” ,"could also", “verb3” ,"but", “adj2” ,"Unfortunately for", “name” ,",", “noun” ,"had already finished the food.", ".")
-
+# print("")
+# print("")
+# name = input("name: ")
+# noun = input("noun: ")
+# adj1 = input("Adjective 1: ")
+# adj2 = input("Adjective 2: ")
+# number = input("Number: ")
+# verb1 = input("Verb 1: ")
+# verb2 = input("Verb 2: ")
+# verb3 = nput("Verb 3: ")
+# print("")
+# print("One day,", noun, "and", name, "were planning a", adj1, "picnic.", "But", noun, verb1, "off with the food at", number, "miles per hour.", "And when", name, "realized", noun, "had already", verb2, "across the ocean.", "But what", noun, "did not know was that", name, "could also", verb3, "but", adj2, ".", "Unfortunately for", name, ",", noun, "had already finished the food.")
+# print("")
 """ Challenge #3 """
 # x = 3
 # y = 4
