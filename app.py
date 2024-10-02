@@ -82,14 +82,3 @@
 # for i in range (2,a+1):
 #     if a % i  ==0 and b % i ==0: 
 #         print(i)
-
-# x= 0
-# while x < 8:
-#     print(x)
-#     x = x +1
-# hp = 100
-# while hp > 0:
-#     print("game thing")
-# score = 11
-# while score < 11:
-#     print("game thing")
